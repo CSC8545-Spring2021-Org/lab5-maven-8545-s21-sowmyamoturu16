@@ -6,6 +6,9 @@ public class ConsoleApp {
         
         System.out.println("Hello Maven");
         
+        System.out.println("Hello Jenkins");
+        
+        System.out.println("Exploring Build Periodically option using CRON in Jenkins");
         
         }
     }
